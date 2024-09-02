@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[navy]'>Deepak</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop 3D visuals and web applications.I'm responsible for the design <br className='sm:block hidden' />and implementation of user interfaces (UIs) and UI components using React.
+            I develop web applications.I'm responsible for the design <br className='sm:block hidden' />and implementation of user interfaces (UIs) and UI components using React.
           </p>
         </div>
       </div>
