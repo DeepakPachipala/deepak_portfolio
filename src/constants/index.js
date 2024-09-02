@@ -112,16 +112,21 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Ensar Solutions(Trainee)",
+    title: "Associate Software Engineer",
+    company_name: "Ensar Solutions",
     icon: ensar,
     iconBg: "white",
     date: "June 2023 - Present",
     points: [
+      "Enhanced user experience with development of intuitive user interfaces.",
+      "Reduced load times for web pages to enhance user engagement using optimized code and efficient database queries.",
+      "Developed responsive web designs, ensuring compatibility across various devices and browsers.",
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+      "Used NodeJS, ORM and SQL/No-SQL to develop and manage databases.",
+      "Built databases and table structures for web applications."
     ],
   },
   {
