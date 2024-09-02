@@ -215,9 +215,9 @@ const projects = [
     source_code_git_link: "https://github.com/DeepakPachipala/Edge-Ledger",
   },
   {
-    name: "New Grid",
+    name: "News Grid",
     description:
-      "This is a new grid website where the news data present",
+      "This is a news grid website where the news data present",
     tags: [
       {
         name: "HTML",
